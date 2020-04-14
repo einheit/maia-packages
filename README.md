@@ -1,10 +1,7 @@
 # maia-packages
 Updated packages for maia mailguard.
 
-For instance, we'll build new spamassassin rpms when new versions are available.
-Other useful packages as appropriate
+We'll build new rpms for el7 & el8 when new versions are available.
+We'll include other useful packages that we don't see in the main repos.
 
-el7 is for rhel/centos 7, el8 is for rhel/centos 8
-
-Updated Debian spamassassin packages are available from debian-backports
-
+Debian users - check debian-backports for up to date spamassassin & other tools
